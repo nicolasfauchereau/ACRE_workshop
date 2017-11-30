@@ -6,7 +6,7 @@ For this session, I strongly recommend installing the [Anaconda Python Distribut
 
 You can refer to [https://github.com/nicolasfauchereau/Auckland_Python_Workshop#the-anaconda-python-distribution](https://github.com/nicolasfauchereau/Auckland_Python_Workshop#the-anaconda-python-distribution) for more details about installing Anaconda and some additional libraries (e.g. [xarray](http://xarray.pydata.org/)) on your machine. 
 
-For Windows user, a nice ressource (highly recommended reading also for those on Macs) is [https://www.dataquest.io/blog/pydata-windows/](https://www.dataquest.io/blog/pydata-windows/). 
+For Windows users, a nice ressource (highly recommended reading also for those on Macs) is [https://www.dataquest.io/blog/pydata-windows/](https://www.dataquest.io/blog/pydata-windows/). 
 
 ## Material 
 
