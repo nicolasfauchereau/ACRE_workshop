@@ -17,7 +17,7 @@ The material will consist in [Jupyter notebooks](http://jupyter.org/), which, in
 
 To download an archive (zip) of the material, click on the green button (`Clone or Download`) on the right-hand side of [https://github.com/nicolasfauchereau/ACRE_workshop](https://github.com/nicolasfauchereau/ACRE_workshop) and choose `Download ZIP`. 
 
-# Data 
+## Data
 
 To run the examples you will need to download and unzip 2 archives, containing respectively the monthly SSTs for the tropical Pacific region, from the ERSST V5 dataset, and the daily NCEP / NCAR (aka *NCEP1*) 1000 hPa geopotential fields for a region encompassing New Zealand. 
 
